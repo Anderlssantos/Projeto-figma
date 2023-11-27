@@ -1,0 +1,133 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+header {
+    margin: 44px 0 144px 76px;
+
+}
+
+.link-header {
+    color: #989D9C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    margin-right: 22px;
+    cursor: pointer;
+
+}
+
+.button-header {
+    border-radius: 20.5px;
+    background: #665AE1;
+    width: 130px;
+    height: 41px;
+    cursor: pointer;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+}
+
+div {
+    display: inline-block;
+    margin-left: 
+    86px;
+
+}
+
+h1 {
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: normal;
+
+}
+
+h2 {
+    color: #515151;
+
+
+    font-size: 58px;
+
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 30px;
+
+}
+
+p {
+    color: #848484;
+    width: 515px;
+    font-weight: 400;
+    line-height: normal;
+    font-size: 24px;
+}
+
+.botao2 {
+
+    color: #000;
+    font-size: 28px;
+    border: none;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 20.5px;
+    background: #ADFF00;
+    width: 239px;
+    height: 64px;
+    margin-top: 30px;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0,25
+    ));
+}
+
+
+
+
+.logo-image {
+    Width: 568px;
+    
+    margin-left: 125px;
+    display: inline-block;
+}
+@media screen and ( max-width: 900px) {
+    header{
+        display: none;
+    
+    }
+p{
+    display: none;
+}
+.logo-image{
+    
+    width: 354px;
+height: 250.236px;
+flex-shrink: 0;
+margin:215px 22px 0 14px ;
+}
+h1{
+    width: 263px;
+height: 52px;
+font-size: 50px;
+
+}
+h2{
+    font-size: 30px;
+}
+.botao2{
+    margin: 0 auto;
+
+}
+div{
+    margin: 24px 64px 133px 64px;
+}
+
+
+
+
+}
